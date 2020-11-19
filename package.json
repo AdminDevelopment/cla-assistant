@@ -37,7 +37,7 @@
         "karma": "^1.1.0",
         "karma-mocha": "^1.1.1",
         "memory-cache": "^0.1.6",
-        "merge": "^1.2.0",
+        "merge": "^2.1.0",
         "mongoose": "^4.5.2",
         "node-sass-middleware": "^0.10.0",
         "passport": "^0.3.2",
